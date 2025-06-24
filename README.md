@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://i.ibb.co/zWs3pbF2/source-4280758-1280.jpg" alt="source-4280758-1280" border="0">
+<img src="https://i.ibb.co/zWs3pbF2/source-4280758-1280.jpg" alt="Banner" width="900" />
+
 <!--
 **Whitey1234/Whitey1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
