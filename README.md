@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Banner] https://ibb.co/Psx2K4MW
 
 <!--
 **Whitey1234/Whitey1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
