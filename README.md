@@ -7,12 +7,10 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate web developer from Bangladesh, currently focused on full-stack JavaScript development. I enjoy building interactive UIs and real-world applications.
+As a proficient MERN Stack Developer, I specialize in crafting robust and scalable web applications. My expertise spans across MongoDB, Express.js, React, and Node.js, enabling me to deliver comprehensive full-stack solutions.
+I enjoy building interactive UIs and real-world applications.
 
-- 🌱 Currently exploring **Next.js** and **GraphQL**
-- 🚧 Building a **tourism website**
-- 📘 Studying **Parallel & Distributed Processing** in CSE
-- 🧪 Learning backend deployment with **Vercel** and **MongoDB**
+
 
 
 
