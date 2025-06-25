@@ -1,6 +1,10 @@
 ## Hi there 👋
 <img src="https://i.ibb.co/zWs3pbF2/source-4280758-1280.jpg" alt="Banner" width="900" />
 
+<!-- Name and Designation -->
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h3 align="center">MERN Stack Developer | Open Source Enthusiast | CSE Student</h3>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/najmul.hassan.571047) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:najmulsiyam20@gmail.com) 
