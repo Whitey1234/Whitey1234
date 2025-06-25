@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/zWs3pbF2/source-4280758-1280.jpg" alt="Banner" width="900" />
+<img src="https://i.ibb.co/zWs3pbF2/source-4280758-1280.jpg" alt="Banner" width="600" />
 
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm  Najmul Hassan Siyam 👋</h1>
