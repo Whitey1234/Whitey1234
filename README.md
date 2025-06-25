@@ -2,8 +2,18 @@
 <img src="https://i.ibb.co/zWs3pbF2/source-4280758-1280.jpg" alt="Banner" width="900" />
 
 <!-- Name and Designation -->
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm  Najjmul Hassan Siyam 👋</h1>
 <h3 align="center">MERN Stack Developer | Open Source Enthusiast | CSE Student</h3>
+
+### 👨‍💻 About Me
+
+I’m a passionate web developer from Bangladesh, currently focused on full-stack JavaScript development. I enjoy building interactive UIs and real-world applications.
+
+- 🌱 Currently exploring **Next.js** and **GraphQL**
+- 🚧 Building a **tourism website**
+- 📘 Studying **Parallel & Distributed Processing** in CSE
+- 🧪 Learning backend deployment with **Vercel** and **MongoDB**
+
 
 
 ## 🌐 Socials:
