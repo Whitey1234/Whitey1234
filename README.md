@@ -1,14 +1,25 @@
-## Hi there 👋
+
 <img src="https://i.ibb.co/zWs3pbF2/source-4280758-1280.jpg" alt="Banner" width="900" />
 
 <!-- Name and Designation -->
-<h1 align="center">Hi, I'm  Najjmul Hassan Siyam 👋</h1>
+<h1 align="center">Hi, I'm  Najmul Hassan Siyam 👋</h1>
 <h3 align="center">MERN Stack Developer | Open Source Enthusiast | CSE Student</h3>
 
 ### 👨‍💻 About Me
 
 As a proficient MERN Stack Developer, I specialize in crafting robust and scalable web applications. My expertise spans across MongoDB, Express.js, React, and Node.js, enabling me to deliver comprehensive full-stack solutions.
 I enjoy building interactive UIs and real-world applications.
+
+<h3>🚀 Currently Working On</h3>
+<ul>
+  <li>🌐 Exploring <strong>Next.js</strong> for server-side rendering and SEO</li>
+  <li>✈️ Building a <strong>Tourism Website</strong> using MERN Stack</li>
+  <li>🔐 Learning <strong>Firebase Authentication</strong> and <strong>JWT</strong></li>
+  <li>💼 Working on a <strong>Tutor Booking Platform</strong></li>
+  <li>⚙️ Improving <strong>MongoDB Aggregation</strong> and <strong>API Security</strong></li>
+  
+</ul>
+
 
 
 
