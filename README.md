@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://i.ibb.co/LDpm6Ds9/Chat-GPT-Image-Jun-25-2025-04-29-49-PM.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/8n2j2MfP/Chat-GPT-Image-Sep-9-2025-12-57-04-AM.png" alt="Banner" width="100%" />
 </p>
 
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm  Najmul Hassan Siyam 👋</h1>
-<h3 align="center">MERN Stack Developer | Open Source Enthusiast | CSE Student</h3>
+<h3 align="center">Full Stack Developer | Open Source Enthusiast | CSE Student</h3>
 
 ### 👨‍💻 About Me
 
-As a proficient MERN Stack Developer, I specialize in crafting robust and scalable web applications. My expertise spans across MongoDB, Express.js, React, and Node.js, enabling me to deliver comprehensive full-stack solutions.
+As a proficient Full Stack Developer, I specialize in crafting robust and scalable web applications. My expertise spans across MongoDB, Express.js, React, Next.js,and Node.js, enabling me to deliver comprehensive full-stack solutions.
 I enjoy building interactive UIs and real-world applications.
 
 <h3>🚀 Currently Working On</h3>
