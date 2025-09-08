@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co.com/8n2j2MfP/Chat-GPT-Image-Sep-9-2025-12-57-04-AM.png" alt="Banner" width="100%" />
-</p>
+<img align="center" src="https://i.ibb.co.com/8n2j2MfP/Chat-GPT-Image-Sep-9-2025-12-57-04-AM.png" alt="Banner" width="100%" />
 
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm  Najmul Hassan Siyam 👋</h1>
