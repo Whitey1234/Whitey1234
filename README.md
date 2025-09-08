@@ -1,6 +1,5 @@
 
-<img align="center" src="https://i.ibb.co/LDpm6Ds9/Chat-GPT-Image-Jun-25-2025-04-29-49-PM.png" alt="Banner" width="100%" />
-
+![Banner](https://i.ibb.co/LDpm6Ds9/Chat-GPT-Image-Jun-25-2025-04-29-49-PM.png)
 
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm  Najmul Hassan Siyam 👋</h1>
