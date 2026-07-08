@@ -59,9 +59,12 @@ I enjoy solving real-world problems, writing clean and maintainable code, and co
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Whitey1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Whitey1234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitey1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=Whitey1234&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=Whitey1234&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Whitey1234&layout=compact&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
