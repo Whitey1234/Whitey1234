@@ -3,7 +3,7 @@
 <!-- Name and Designation -->
 <!-- Name and Designation -->
 <h1 align="center">Hi, I'm Najmul Hassan Siyam 👋</h1>
-<h3 align="center">Full Stack Developer | Node.js Backend Developer | CSE Student</h3>
+<h3 align="center">Full Stack Developer | Node.js Backend Developer | CSE Graduate</h3>
 
 ### 👨‍💻 About Me
 
