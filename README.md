@@ -1,22 +1,23 @@
 <img align="center" src="https://i.ibb.co.com/8n2j2MfP/Chat-GPT-Image-Sep-9-2025-12-57-04-AM.png" alt="Banner" width="100%" />
 
 <!-- Name and Designation -->
-<h1 align="center">Hi, I'm  Najmul Hassan Siyam 👋</h1>
-<h3 align="center">Full Stack Developer | Open Source Enthusiast | CSE Student</h3>
+<!-- Name and Designation -->
+<h1 align="center">Hi, I'm Najmul Hassan Siyam 👋</h1>
+<h3 align="center">Full Stack Developer | Node.js Backend Developer | CSE Student</h3>
 
 ### 👨‍💻 About Me
 
-As a proficient Full Stack Developer, I specialize in crafting robust and scalable web applications. My expertise spans across MongoDB, Express.js, React, Next.js,and Node.js, enabling me to deliver comprehensive full-stack solutions.
-I enjoy building interactive UIs and real-world applications.
+I'm a passionate Full Stack Developer with a strong focus on backend development using **Node.js** and **Express.js**. I build scalable REST APIs, real-time applications with **Socket.IO**, and modern web applications using **Next.js**, **React**, and **MongoDB**.
+
+I enjoy solving real-world problems, writing clean and maintainable code, and continuously learning new technologies.
 
 <h3>🚀 Currently Working On</h3>
 <ul>
-  <li>🌐 Exploring <strong>Next.js</strong> for server-side rendering and SEO</li>
-  <li>✈️ Building a <strong>Tourism Website</strong> using MERN Stack</li>
-  <li>🔐 Learning <strong>Firebase Authentication</strong> and <strong>JWT</strong></li>
-  <li>💼 Working on a <strong>Tutor Booking Platform</strong></li>
-  <li>⚙️ Improving <strong>MongoDB Aggregation</strong> and <strong>API Security</strong></li>
-  
+  <li>⚡ Building scalable backend systems with <strong>Node.js</strong> and <strong>Express.js</strong></li>
+  <li>💬 Developing real-time applications using <strong>Socket.IO</strong></li>
+  <li>🚀 Deploying and managing applications on <strong>Linux VPS</strong> with <strong>Nginx</strong> and <strong>PM2</strong></li>
+  <li>🔐 Improving authentication, authorization, and API security using <strong>JWT</strong> and <strong>NextAuth.js</strong></li>
+  <li>🧠 Exploring AI integration and modern web technologies</li>
 </ul>
 
 
